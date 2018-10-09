@@ -1,0 +1,21 @@
+{
+  "id": "8fac7bb0-4ab5-4b54-83d7-ab9e267d793f",
+  "version": "1.1",
+  "name": "SeleniumWithTrainingRite",
+  "url": "",
+  "tests": [{
+    "id": "b5ae618c-d7a9-4581-80af-d56d001293b8",
+    "name": "Untitled",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "ff619f9f-723f-43ee-b839-7815e113de39",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["b5ae618c-d7a9-4581-80af-d56d001293b8"]
+  }],
+  "urls": [],
+  "plugins": []
+}
